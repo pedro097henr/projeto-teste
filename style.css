@@ -7,18 +7,19 @@ header{}
 background-color: brown;
 align-items: center;
 justify-content: space-between;
-padding: ;
-
+padding: 20px; ;
+display: flex;
 h1{}
-
+color: aliceblue;
+font-size: 30px;
 
 
 input{
-
-}
+width: 100px;
+height: 10px;
 
 
 button{
-
-}
-    
+background-color: aquamarine;
+width: 50px;
+    border-radius: 30px;
