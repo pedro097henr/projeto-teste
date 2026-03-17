@@ -1,25 +1,28 @@
 body{
 background-color: black;
-margin: ;
+margin: 0;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
-header{}
+header{
 background-color: brown;
 align-items: center;
 justify-content: space-between;
 padding: 20px; ;
 display: flex;
-h1{}
+}
+h1{
 color: aliceblue;
 font-size: 30px;
-
+}
 
 input{
-width: 100px;
-height: 10px;
-
+width: 400px;
+height: 100px;
+}
 
 button{
 background-color: aquamarine;
-width: 50px;
+width: 150px;
     border-radius: 30px;
+}
