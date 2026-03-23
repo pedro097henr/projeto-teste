@@ -34,6 +34,8 @@ main{padding: 20px;
 section{display: flex;
     align-items: center;
     justify-content: space-around;color: rgb(243, 249, 255);
+    margin: 20px;
+    width: 90vw;
 }
 p{width: 400px;
 
