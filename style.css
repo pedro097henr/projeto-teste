@@ -42,5 +42,11 @@ p{width: 400px;
 
 }
 img{width: 400px;
-
+}
+section button{
+    background-color: azure;
+    color: black;
+    height: 100px;
+    width: 150px;
+    font-size: 30;
 }
