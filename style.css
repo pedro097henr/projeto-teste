@@ -27,7 +27,8 @@ width: 150px;
     border-radius: 30px;
 }
 main{
-padding: 20px;
+padding: 100px;
+margin: 20px;
 background-color: blue;
 border-radius: 10px;
 }
@@ -37,6 +38,7 @@ align-items: center;
 justify-content: space-around;color: rgb(243, 249, 255);
 margin: 20px;
 width: 90vw;
+padding: 100px;
 }
 p{width: 400px;
 
@@ -47,6 +49,6 @@ section button{
     background-color: azure;
     color: black;
     height: 100px;
-    width: 150px;
+    width: 250px;;
     font-size: 30;
 }
